@@ -20,4 +20,4 @@ Se você é um torcedor apaixonado pelo Palmeiras e deseja contribuir com conte�
 
 ## Autor
 
-Este site foi desenvolvido por Letícia Schmitt Rocha e é mantido pela comunidade de torcedores do Palmeiras. Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco através do GitHub ou das redes sociais.
+Este site foi desenvolvido por Letícia Schmitt Rocha e poderá ser mantido pela comunidade de torcedores do Palmeiras. Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco através do GitHub.
